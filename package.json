@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/dompurify": "^3.0.5",
+    "@vercel/speed-insights": "^2.0.0",
     "clsx": "^2.1.1",
     "dompurify": "^3.4.17",
     "hls.js": "^1.7.3",
